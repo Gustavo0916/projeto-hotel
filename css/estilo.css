@@ -1,0 +1,299 @@
+body {
+	background: #F7F2E0;
+}
+
+a {
+	text-decoration: none;
+}
+
+#container {
+	width: 1250px;
+	height: 1089px;
+}
+
+#container-2 {
+	width: 1250px;
+	height: 1459px;
+}
+
+#container-3 {
+	width: 1250px;
+	height: 1504px;
+}
+
+#container-4 {
+	width: 1250px;
+	height: 1404px;
+}
+
+.logo-2 {
+	margin-top: -330px;
+	text-align: right;
+	margin-right: 15px;
+}
+
+.areaPrincipal {
+	width: 700px;
+	height: 552px;
+	float: left;
+	margin-top: 275px;
+	margin-left: 5px;
+	background: #F3E2A9;
+	border-radius: 5px;
+}
+
+.lateral {
+	width: 530px;
+	height: 552px;
+	float: left;
+	margin-top: 275px;
+	margin-left: 8px;
+	background: #D2B48C;
+	border-radius: 5px;
+}
+/**********************************************************************/
+.area_meio-2 {
+	width: 610px;
+	height: 350px;
+	background: linear-gradient(#F3E2A9, #D2B48C);
+	border-radius: 5px;
+	margin-top: 20px;
+	margin-left: 7px;
+	float: left;
+}
+
+.area_meio {
+	width: 610px;
+	height: 350px;
+	background: linear-gradient(#D2B48C, #F3E2A9);
+	border-radius: 5px;
+	margin-top: 20px;
+	margin-left: 10px;
+	float: left;
+}
+
+/***********************************************************************/
+.imagemLateral {
+	float: left;
+	margin-top: -6px;
+	margin-left: 5px;
+}
+
+.imagem {
+	float: left;
+	margin-left: 5px;
+}
+
+.imagemPiscinaOpenBar {
+	float: left;
+	margin-left: 10px;
+}
+
+.imagemRestaurante {
+	text-align: center;
+}
+
+.imagemServico_quarto {
+	margin-left: 5px;
+	float: left;
+	margin-top: 5px;
+}
+
+.imagemServico {
+	float: right;
+	margin-right: 5px;
+}
+
+/*************************************************************************/
+.tituloLateral {
+	text-align: center;
+	margin-top: -10px;
+	color: brown;
+}
+
+.titulo {
+	color: brown;
+	margin-left: 10px;
+}
+
+.tituloRestaurante {
+	text-align: center;
+	color: brown;
+}
+
+.tituloServico {
+	text-align: center;
+	color: brown;
+}
+
+/**********************************************************************/
+.paragrafoLateral {
+	text-align: center;
+	color: black;
+}
+
+.paragrafo {
+	padding: 0px 2px;
+	margin-left: 5px;
+	text-align: center;
+}
+
+.paragrafoRestaurante {
+	text-align: center;
+	padding: 3px;
+}
+
+.paragrafoServico_quarto {
+	text-align: center;
+	padding: 0 5px;
+}
+
+/**************************************************************************/
+.divRestaurante {
+	width: 410px;
+	height: 400px;
+	float: left;
+	margin-left: 6px;
+	border-radius: 5px;
+	margin-top: 15px;
+	background: linear-gradient(to right, #D2B48C, #F3E2A9);
+}
+
+.divRestaurante2 {
+	width: 410px;
+	float: left;
+	height: 400px;
+	margin-left: 3px;
+	border-radius: 5px;
+	margin-top: 15px;
+	background: linear-gradient(#F3E2A9, #D2B48C, #F3E2A9);
+}
+
+.divRestaurante3 {
+	width: 410px;
+	height: 400px;
+	float: left;
+	margin-left: 3px;
+	border-radius: 5px;
+	margin-top: 15px;
+	background: linear-gradient(to right, #F3E2A9, #D2B48C);
+}
+
+.caixaServico_quarto {
+	width: 1250px;
+	height: 300px;
+	background: linear-gradient(#F3E2A9, brown, #F3E2A9);
+	border-radius: 5px;
+	margin-top: 845px;
+}
+
+.postagemServico_quarto {
+	width: 620px;
+	height: 250px;
+	background: #D2B48C;
+	margin-left: 4px;
+	margin-top: 25px;
+	border-radius: 5px;
+	float: left;
+}
+
+.postagemServico_quarto-2 {
+	width: 620px;
+	height: 250px;
+	background: #D2B48C;
+	border-radius: 5px;
+	margin-left: 2px;
+	margin-top: 25px;
+	float: left;
+}
+
+/**********************************************************************/
+.rodape {
+	width: 1250px;
+	height: 150px;
+	background: #F3E2A9;
+	margin-top: 845px;
+	border-radius: 5px;
+} 
+
+.rodapePiscina {
+	width: 1250px;
+	height: 150px;
+	background: #F3E2A9;
+	margin-top: 1215px;
+	border-radius: 5px;
+}
+
+.rodapeRestaurante {
+	width: 1250px;
+	height: 150px;
+	background: #F3E2A9;
+	margin-top: 1260px;
+	border-radius: 5px;
+}
+
+.rodapeServico_quarto {
+	width: 1250px;
+	height: 150px;
+	background: #F3E2A9;
+	margin-top: 15px;
+	border-radius: 5px;
+}
+
+.logoRodape {
+	margin-top: 35px;
+}
+
+.caixaRodape {
+	width: 280px;
+	height: 150px;
+	text-align: center;
+	float: left;
+} 
+
+.caixaRodape-2 {
+	width: 300px;
+	height: 150px;
+	text-align: center;
+	float: right;
+	
+}
+
+.caixaNavegacao {
+	width: 620px;
+	height: 150px;
+	border-radius: 5px;
+	margin-left: 305px;
+	background: #D2B48C;
+	background: linear-gradient(#D2B48C, #F3E2A9, #D2B48C);
+}
+
+.tituloRodape {
+	text-align: center;
+	color: brown;
+	padding: 1.1px;
+}
+
+.tituloRodape a {
+	color: #4B610B;
+}
+
+.linkRodape {
+	text-align: center;
+	padding: 5px 0;
+}
+
+.linkRodape a {
+	margin: 30px;
+	color: brown;
+}
+
+.copy-chaleHotel {
+	text-align: center;
+	color: #4B610B;
+}
+
+
+
+
+
